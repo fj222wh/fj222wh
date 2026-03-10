@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there! ✨
 I'm a second-year web development student at LNU!
 
 ## Languages
