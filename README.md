@@ -1,5 +1,5 @@
 # Hello there! ✨
-I'm a second-year web development student at LNU!
+I'm a second-year web development student at LNU to become a fullstack developer!
 
 ## Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
