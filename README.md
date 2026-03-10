@@ -1,16 +1,17 @@
 ## Hi there 👋
+I'm a second year student in Web Development
 
-<!--
-**fj222wh/fj222wh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Tech Stack I've worked with
+<img src="{[BadgeURLHere](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)}" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)}" />
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)}" />
+
+<img src="{BadgeUhttps://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whiteRLHere}" />
+
+### Currently learning
+<img src="{BadgeURLHere}" />
+
+### Contact me here
